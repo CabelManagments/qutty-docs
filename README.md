@@ -16,7 +16,7 @@
 
 ## APK для Android
 
-Скачать последнюю версию APK можно в Telegram-канале: https://t.me/qutty_news
+Скачать последнюю версию APK можно в Telegram-канале: https://t.me/QuttyDevs
 
 ---
 
@@ -41,10 +41,9 @@ https://pressf.com/manager_stars_1_3/donate
 ## Ссылки
 
 - Сайт: https://qutty-messenger.surge.sh
-- Telegram канал: https://t.me/qutty_news
+- Telegram канал: https://t.me/QuttyDevs
 - Бот для входа: https://t.me/QuttyCodeBot
 - Чат сообщества: https://t.me/qutty_chat
-- GitHub (код): https://github.com/CabelManagments/qutty-messenger
 
 ---
 
